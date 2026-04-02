@@ -59,7 +59,7 @@ The project is **Docker-ready** and includes `ffmpeg` for video/audio processing
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/Dikar265/downloader-video-with-fastapi.git
+git clone https://github.com/Dpiyush0018/downloader-video-with-fastapi.git
 cd downloader-video-with-fastapi
 ```
 
